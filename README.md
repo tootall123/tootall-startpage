@@ -1,5 +1,12 @@
-# tootall-startpage
+# Random Startpages, Newtabs. and additional concepts for upcomning projects.
 
-My personal startpages as well as a few that I personally did not create but was inspired by or I am modifying or editing for my own personal use. 
+A few startpages that I personally use, created, repurposed, modified, etc.
 
-New tab start page 
+New tab and start pages
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/77269940/217481140-f3ba036b-11b9-4663-b85e-8ce8e4913954.png)
